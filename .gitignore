@@ -1,0 +1,15 @@
+/bin/
+/target/
+/.settings/
+/.classpath
+/.factorypath
+/.metadata
+/.eclipse-pmd
+/.factorypath
+/.pmd
+/.ruleset
+/.springBeans
+/src/main/java/META-INF/additional-spring-configuration-metadata.json
+/bin/
+/.apt_generated/
+/.idea/*
